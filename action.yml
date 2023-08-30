@@ -1,4 +1,4 @@
-name: 'Datadog Action'
+name: 'Datadog Action (forked)'
 description: 'Push Datadog metrics and events from GitHub Actions'
 author: 'Massimiliano Pippi'
 inputs:
